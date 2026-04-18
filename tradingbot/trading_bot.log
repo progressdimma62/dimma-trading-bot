@@ -1,0 +1,370 @@
+2026-04-08 10:05:54,441 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:06:36,690 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:06:54,988 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:07:38,059 [INFO] No trade signal for AAPL
+2026-04-08 10:07:55,519 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:08:56,044 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:09:56,614 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:10:57,154 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:12:02,011 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:13:02,593 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:14:03,231 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:15:03,738 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:16:04,999 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:17:05,841 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:17:39,814 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-08 10:17:39,815 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-08 10:17:39,850 [INFO]  * Restarting with stat
+2026-04-08 10:18:06,617 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:18:10,304 [WARNING]  * Debugger is active!
+2026-04-08 10:18:10,474 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 10:19:07,219 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:20:07,900 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:21:08,484 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:22:09,109 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:23:10,015 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:24:02,305 [INFO] 127.0.0.1 - - [08/Apr/2026 10:24:02] "GET / HTTP/1.1" 200 -
+2026-04-08 10:24:07,887 [INFO] 127.0.0.1 - - [08/Apr/2026 10:24:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-08 10:24:10,765 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:25:12,510 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:26:04,617 [INFO]  * Detected change in 'C:\\Users\\PROGRESS\\Desktop\\tradingbot\\web_app.py', reloading
+2026-04-08 10:26:06,744 [INFO]  * Restarting with stat
+2026-04-08 10:26:14,098 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:27:14,927 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:27:25,876 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-08 10:27:25,876 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-08 10:27:25,930 [INFO]  * Restarting with stat
+2026-04-08 10:27:45,792 [WARNING]  * Debugger is active!
+2026-04-08 10:27:50,963 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 10:28:16,365 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:29:17,191 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:29:56,236 [INFO] 127.0.0.1 - - [08/Apr/2026 10:29:56] "GET / HTTP/1.1" 200 -
+2026-04-08 10:30:02,247 [INFO] 127.0.0.1 - - [08/Apr/2026 10:30:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-08 10:30:18,105 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:30:18,329 [INFO] 127.0.0.1 - - [08/Apr/2026 10:30:18] "GET / HTTP/1.1" 200 -
+2026-04-08 10:31:19,199 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:32:19,928 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:33:20,856 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:35:02,042 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 10:36:04,611 [INFO] ALERT: Error in trading bot: Data must be 1-dimensional, got ndarray of shape (100, 1) instead
+2026-04-08 11:40:21,713 [ERROR] 
+1 Failed download:
+2026-04-08 11:40:21,733 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:40:22,018 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:41:22,317 [ERROR] 
+1 Failed download:
+2026-04-08 11:41:22,318 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:41:22,327 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:42:22,342 [ERROR] 
+1 Failed download:
+2026-04-08 11:42:22,343 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:42:22,353 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:43:22,386 [ERROR] 
+1 Failed download:
+2026-04-08 11:43:22,387 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:43:22,404 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:44:22,422 [ERROR] 
+1 Failed download:
+2026-04-08 11:44:22,422 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:44:22,434 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:53:01,155 [ERROR] 
+1 Failed download:
+2026-04-08 11:53:01,155 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:53:01,938 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:54:13,998 [ERROR] 
+1 Failed download:
+2026-04-08 11:54:13,998 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:54:14,002 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:55:32,516 [ERROR] 
+1 Failed download:
+2026-04-08 11:55:32,516 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 11:55:32,523 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 11:57:18,670 [INFO] No trade signal for AAPL
+2026-04-08 11:58:19,212 [INFO] No trade signal for AAPL
+2026-04-08 11:59:20,676 [INFO] No trade signal for AAPL
+2026-04-08 12:00:21,218 [INFO] No trade signal for AAPL
+2026-04-08 12:01:46,282 [INFO] No trade signal for AAPL
+2026-04-08 12:02:46,896 [INFO] No trade signal for AAPL
+2026-04-08 12:03:47,553 [INFO] No trade signal for AAPL
+2026-04-08 12:04:48,531 [INFO] No trade signal for AAPL
+2026-04-08 12:05:26,556 [INFO] No trade signal for AAPL
+2026-04-08 12:05:49,160 [INFO] No trade signal for AAPL
+2026-04-08 12:06:27,107 [INFO] No trade signal for AAPL
+2026-04-08 12:06:49,805 [INFO] No trade signal for AAPL
+2026-04-08 12:07:27,654 [INFO] No trade signal for AAPL
+2026-04-08 12:07:50,464 [INFO] No trade signal for AAPL
+2026-04-08 12:08:28,203 [INFO] No trade signal for AAPL
+2026-04-08 12:08:51,123 [INFO] No trade signal for AAPL
+2026-04-08 12:09:28,700 [INFO] No trade signal for AAPL
+2026-04-08 12:09:51,779 [INFO] No trade signal for AAPL
+2026-04-08 12:10:29,548 [INFO] No trade signal for AAPL
+2026-04-08 12:10:52,359 [INFO] No trade signal for AAPL
+2026-04-08 12:11:30,084 [INFO] No trade signal for AAPL
+2026-04-08 12:11:52,979 [INFO] No trade signal for AAPL
+2026-04-08 12:12:24,199 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-08 12:12:24,199 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-08 12:12:24,254 [INFO]  * Restarting with stat
+2026-04-08 12:12:26,391 [WARNING]  * Debugger is active!
+2026-04-08 12:12:26,476 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 12:12:30,620 [INFO] No trade signal for AAPL
+2026-04-08 12:12:36,139 [INFO] 127.0.0.1 - - [08/Apr/2026 12:12:36] "GET / HTTP/1.1" 200 -
+2026-04-08 12:12:41,345 [INFO] 127.0.0.1 - - [08/Apr/2026 12:12:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-08 12:12:53,586 [INFO] No trade signal for AAPL
+2026-04-08 12:13:31,242 [INFO] No trade signal for AAPL
+2026-04-08 12:13:55,197 [INFO] No trade signal for AAPL
+2026-04-08 12:14:32,024 [INFO] No trade signal for AAPL
+2026-04-08 12:14:56,834 [INFO] No trade signal for AAPL
+2026-04-08 12:15:32,720 [INFO] No trade signal for AAPL
+2026-04-08 12:15:53,368 [INFO]  * Detected change in 'C:\\Users\\PROGRESS\\Desktop\\tradingbot\\web_app.py', reloading
+2026-04-08 12:15:54,766 [INFO]  * Restarting with stat
+2026-04-08 12:15:57,520 [INFO] No trade signal for AAPL
+2026-04-08 12:16:33,279 [INFO] No trade signal for AAPL
+2026-04-08 12:16:35,952 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-08 12:16:35,953 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-08 12:16:35,989 [INFO]  * Restarting with stat
+2026-04-08 12:16:38,860 [WARNING]  * Debugger is active!
+2026-04-08 12:16:38,990 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 12:16:41,117 [INFO] 127.0.0.1 - - [08/Apr/2026 12:16:41] "GET / HTTP/1.1" 200 -
+2026-04-08 12:16:58,097 [INFO] No trade signal for AAPL
+2026-04-08 12:17:10,468 [INFO]  * Detected change in 'C:\\Users\\PROGRESS\\Desktop\\tradingbot\\web_app.py', reloading
+2026-04-08 12:17:10,671 [INFO]  * Restarting with stat
+2026-04-08 12:17:12,935 [WARNING]  * Debugger is active!
+2026-04-08 12:17:12,948 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 12:17:15,477 [INFO] 127.0.0.1 - - [08/Apr/2026 12:17:15] "GET / HTTP/1.1" 200 -
+2026-04-08 12:17:33,848 [INFO] No trade signal for AAPL
+2026-04-08 12:17:58,675 [INFO] No trade signal for AAPL
+2026-04-08 12:18:37,863 [INFO]  * Detected change in 'C:\\Users\\PROGRESS\\Desktop\\tradingbot\\web_app.py', reloading
+2026-04-08 12:18:38,089 [INFO]  * Restarting with stat
+2026-04-08 12:18:40,824 [WARNING]  * Debugger is active!
+2026-04-08 12:18:40,834 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 12:18:42,883 [INFO]  * Detected change in 'C:\\Users\\PROGRESS\\Desktop\\tradingbot\\web_app.py', reloading
+2026-04-08 12:18:43,274 [INFO]  * Restarting with stat
+2026-04-08 12:18:46,807 [WARNING]  * Debugger is active!
+2026-04-08 12:18:46,817 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 12:18:48,910 [INFO]  * Detected change in 'C:\\Users\\PROGRESS\\Desktop\\tradingbot\\web_app.py', reloading
+2026-04-08 12:18:49,346 [INFO]  * Restarting with stat
+2026-04-08 12:18:52,723 [WARNING]  * Debugger is active!
+2026-04-08 12:18:52,733 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 12:18:59,254 [INFO] No trade signal for AAPL
+2026-04-08 12:19:37,616 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-08 12:19:37,616 [INFO] [33mPress CTRL+C to quit[0m
+2026-04-08 12:19:37,618 [INFO]  * Restarting with stat
+2026-04-08 12:19:41,619 [WARNING]  * Debugger is active!
+2026-04-08 12:19:41,629 [INFO]  * Debugger PIN: 811-721-031
+2026-04-08 12:19:59,880 [INFO] No trade signal for AAPL
+2026-04-08 12:20:02,962 [INFO] 127.0.0.1 - - [08/Apr/2026 12:20:02] "GET / HTTP/1.1" 200 -
+2026-04-08 12:20:05,131 [INFO] 127.0.0.1 - - [08/Apr/2026 12:20:05] "GET /data HTTP/1.1" 200 -
+2026-04-08 12:20:27,041 [INFO] 127.0.0.1 - - [08/Apr/2026 12:20:27] "GET / HTTP/1.1" 200 -
+2026-04-08 12:20:27,647 [INFO] 127.0.0.1 - - [08/Apr/2026 12:20:27] "GET /data HTTP/1.1" 200 -
+2026-04-08 12:20:30,860 [INFO] 127.0.0.1 - - [08/Apr/2026 12:20:30] "GET / HTTP/1.1" 200 -
+2026-04-08 12:20:31,670 [INFO] 127.0.0.1 - - [08/Apr/2026 12:20:31] "GET /data HTTP/1.1" 200 -
+2026-04-08 12:21:00,534 [INFO] No trade signal for AAPL
+2026-04-08 12:22:01,691 [INFO] No trade signal for AAPL
+2026-04-08 12:23:02,302 [INFO] No trade signal for AAPL
+2026-04-08 12:24:02,957 [INFO] No trade signal for AAPL
+2026-04-08 12:24:23,619 [INFO] 127.0.0.1 - - [08/Apr/2026 12:24:23] "GET / HTTP/1.1" 200 -
+2026-04-08 12:24:25,055 [INFO] 127.0.0.1 - - [08/Apr/2026 12:24:25] "GET /data HTTP/1.1" 200 -
+2026-04-08 12:25:03,548 [INFO] No trade signal for AAPL
+2026-04-08 12:26:04,141 [INFO] No trade signal for AAPL
+2026-04-08 12:27:05,409 [INFO] No trade signal for AAPL
+2026-04-08 12:28:06,296 [INFO] No trade signal for AAPL
+2026-04-08 12:29:07,140 [INFO] No trade signal for AAPL
+2026-04-08 12:29:11,492 [INFO] 127.0.0.1 - - [08/Apr/2026 12:29:11] "GET / HTTP/1.1" 200 -
+2026-04-08 12:29:12,098 [INFO] 127.0.0.1 - - [08/Apr/2026 12:29:12] "GET /data HTTP/1.1" 200 -
+2026-04-08 12:29:36,621 [INFO]  * Detected change in 'C:\\Users\\PROGRESS\\Desktop\\tradingbot\\app.py', reloading
+2026-04-08 12:29:37,038 [INFO]  * Restarting with stat
+2026-04-08 12:30:07,877 [INFO] No trade signal for AAPL
+2026-04-08 12:30:40,879 [INFO] No trade signal for AAPL
+2026-04-08 12:31:08,821 [INFO] No trade signal for AAPL
+2026-04-08 12:32:09,821 [INFO] No trade signal for AAPL
+2026-04-08 12:33:11,262 [INFO] No trade signal for AAPL
+2026-04-08 12:34:11,895 [INFO] No trade signal for AAPL
+2026-04-08 12:35:12,670 [INFO] No trade signal for AAPL
+2026-04-08 12:36:13,269 [INFO] No trade signal for AAPL
+2026-04-08 12:37:14,078 [INFO] No trade signal for AAPL
+2026-04-08 12:38:15,298 [INFO] No trade signal for AAPL
+2026-04-08 12:39:16,526 [INFO] No trade signal for AAPL
+2026-04-08 12:40:17,099 [INFO] No trade signal for AAPL
+2026-04-08 12:41:17,868 [INFO] No trade signal for AAPL
+2026-04-08 12:42:18,500 [INFO] No trade signal for AAPL
+2026-04-08 12:43:19,179 [INFO] No trade signal for AAPL
+2026-04-08 12:44:19,768 [INFO] No trade signal for AAPL
+2026-04-08 12:45:20,324 [INFO] No trade signal for AAPL
+2026-04-08 12:46:20,933 [INFO] No trade signal for AAPL
+2026-04-08 12:47:21,708 [INFO] No trade signal for AAPL
+2026-04-08 12:48:22,381 [INFO] No trade signal for AAPL
+2026-04-08 12:49:23,134 [INFO] No trade signal for AAPL
+2026-04-08 12:50:25,196 [INFO] No trade signal for AAPL
+2026-04-08 12:51:25,819 [INFO] No trade signal for AAPL
+2026-04-08 12:52:29,327 [INFO] No trade signal for AAPL
+2026-04-08 12:53:30,325 [INFO] No trade signal for AAPL
+2026-04-08 12:54:30,943 [INFO] No trade signal for AAPL
+2026-04-08 12:55:31,782 [INFO] No trade signal for AAPL
+2026-04-08 12:56:32,392 [INFO] No trade signal for AAPL
+2026-04-08 12:57:33,106 [INFO] No trade signal for AAPL
+2026-04-08 12:58:33,856 [INFO] No trade signal for AAPL
+2026-04-08 12:59:36,241 [INFO] No trade signal for AAPL
+2026-04-08 14:25:41,189 [INFO] No trade signal for AAPL
+2026-04-08 14:26:41,769 [INFO] No trade signal for AAPL
+2026-04-08 14:27:42,345 [INFO] No trade signal for AAPL
+2026-04-08 14:28:42,943 [INFO] No trade signal for AAPL
+2026-04-08 14:41:44,373 [INFO] No trade signal for AAPL
+2026-04-08 15:55:33,359 [INFO] No trade signal for AAPL
+2026-04-08 15:56:34,031 [INFO] No trade signal for AAPL
+2026-04-08 15:57:34,700 [INFO] No trade signal for AAPL
+2026-04-08 15:58:36,610 [INFO] No trade signal for AAPL
+2026-04-08 15:59:37,171 [INFO] No trade signal for AAPL
+2026-04-08 16:00:38,937 [INFO] No trade signal for AAPL
+2026-04-08 16:01:39,797 [INFO] No trade signal for AAPL
+2026-04-08 16:02:40,471 [INFO] No trade signal for AAPL
+2026-04-08 16:03:42,061 [INFO] No trade signal for AAPL
+2026-04-08 16:14:27,967 [INFO] No trade signal for AAPL
+2026-04-08 16:15:28,564 [INFO] No trade signal for AAPL
+2026-04-08 16:16:29,205 [INFO] No trade signal for AAPL
+2026-04-08 16:17:29,828 [INFO] No trade signal for AAPL
+2026-04-08 16:24:01,595 [INFO] No trade signal for AAPL
+2026-04-08 16:25:02,289 [INFO] No trade signal for AAPL
+2026-04-08 16:26:06,630 [INFO] No trade signal for AAPL
+2026-04-08 16:27:08,510 [INFO] No trade signal for AAPL
+2026-04-08 17:11:30,698 [INFO] No trade signal for AAPL
+2026-04-08 17:12:31,321 [INFO] No trade signal for AAPL
+2026-04-08 17:13:33,294 [INFO] No trade signal for AAPL
+2026-04-08 17:14:33,876 [INFO] No trade signal for AAPL
+2026-04-08 17:15:36,197 [INFO] No trade signal for AAPL
+2026-04-08 17:16:37,284 [INFO] No trade signal for AAPL
+2026-04-08 17:17:38,881 [INFO] No trade signal for AAPL
+2026-04-08 17:18:39,631 [INFO] No trade signal for AAPL
+2026-04-08 17:19:40,335 [INFO] No trade signal for AAPL
+2026-04-08 17:20:40,949 [INFO] No trade signal for AAPL
+2026-04-08 17:21:41,623 [INFO] No trade signal for AAPL
+2026-04-08 17:22:40,629 [INFO] No trade signal for AAPL
+2026-04-08 17:22:42,301 [INFO] No trade signal for AAPL
+2026-04-08 17:23:41,500 [INFO] No trade signal for AAPL
+2026-04-08 17:23:42,884 [INFO] No trade signal for AAPL
+2026-04-08 17:24:41,998 [INFO] No trade signal for AAPL
+2026-04-08 17:24:43,442 [INFO] No trade signal for AAPL
+2026-04-08 17:25:42,584 [INFO] No trade signal for AAPL
+2026-04-08 17:25:44,040 [INFO] No trade signal for AAPL
+2026-04-08 17:26:43,219 [INFO] No trade signal for AAPL
+2026-04-08 17:26:44,631 [INFO] No trade signal for AAPL
+2026-04-08 17:27:50,283 [INFO] No trade signal for AAPL
+2026-04-08 17:27:50,234 [INFO] No trade signal for AAPL
+2026-04-08 17:28:50,864 [INFO] No trade signal for AAPL
+2026-04-08 17:28:50,891 [INFO] No trade signal for AAPL
+2026-04-08 17:29:51,429 [INFO] No trade signal for AAPL
+2026-04-08 17:29:51,458 [INFO] No trade signal for AAPL
+2026-04-08 17:30:52,067 [INFO] No trade signal for AAPL
+2026-04-08 17:30:55,033 [INFO] No trade signal for AAPL
+2026-04-08 17:31:53,574 [INFO] No trade signal for AAPL
+2026-04-08 17:31:55,828 [INFO] No trade signal for AAPL
+2026-04-08 17:32:55,728 [INFO] No trade signal for AAPL
+2026-04-08 17:32:56,420 [INFO] No trade signal for AAPL
+2026-04-08 17:33:57,388 [INFO] No trade signal for AAPL
+2026-04-08 17:34:01,692 [INFO] No trade signal for AAPL
+2026-04-08 17:34:58,209 [INFO] No trade signal for AAPL
+2026-04-08 17:35:02,283 [INFO] No trade signal for AAPL
+2026-04-08 17:36:02,473 [INFO] No trade signal for AAPL
+2026-04-08 17:36:03,071 [INFO] No trade signal for AAPL
+2026-04-08 17:37:03,047 [INFO] No trade signal for AAPL
+2026-04-08 17:37:03,665 [INFO] No trade signal for AAPL
+2026-04-08 17:47:26,897 [INFO] No trade signal for AAPL
+2026-04-08 17:47:27,497 [INFO] No trade signal for AAPL
+2026-04-08 17:48:27,541 [INFO] No trade signal for AAPL
+2026-04-08 17:48:28,068 [INFO] No trade signal for AAPL
+2026-04-08 17:49:28,950 [INFO] No trade signal for AAPL
+2026-04-08 17:49:29,446 [INFO] No trade signal for AAPL
+2026-04-08 17:50:30,010 [INFO] No trade signal for AAPL
+2026-04-08 17:50:30,177 [INFO] No trade signal for AAPL
+2026-04-08 17:51:30,564 [INFO] No trade signal for AAPL
+2026-04-08 17:51:30,809 [INFO] No trade signal for AAPL
+2026-04-08 17:52:31,083 [INFO] No trade signal for AAPL
+2026-04-08 17:52:31,424 [INFO] No trade signal for AAPL
+2026-04-08 17:53:31,669 [INFO] No trade signal for AAPL
+2026-04-08 17:53:34,726 [INFO] No trade signal for AAPL
+2026-04-08 17:54:33,063 [INFO] No trade signal for AAPL
+2026-04-08 17:54:35,556 [INFO] No trade signal for AAPL
+2026-04-08 17:55:33,707 [INFO] No trade signal for AAPL
+2026-04-08 17:55:36,212 [INFO] No trade signal for AAPL
+2026-04-08 17:56:34,285 [INFO] No trade signal for AAPL
+2026-04-08 17:56:36,915 [INFO] No trade signal for AAPL
+2026-04-08 17:57:36,324 [INFO] No trade signal for AAPL
+2026-04-08 17:57:37,741 [INFO] No trade signal for AAPL
+2026-04-08 17:58:39,537 [INFO] No trade signal for AAPL
+2026-04-08 17:58:46,123 [INFO] No trade signal for AAPL
+2026-04-08 17:59:42,861 [INFO] No trade signal for AAPL
+2026-04-08 17:59:46,630 [INFO] No trade signal for AAPL
+2026-04-08 18:00:45,913 [INFO] No trade signal for AAPL
+2026-04-08 18:00:47,419 [INFO] No trade signal for AAPL
+2026-04-08 18:01:46,468 [INFO] No trade signal for AAPL
+2026-04-08 18:01:53,266 [INFO] No trade signal for AAPL
+2026-04-08 18:02:48,898 [INFO] No trade signal for AAPL
+2026-04-08 18:02:54,029 [INFO] No trade signal for AAPL
+2026-04-08 18:03:50,087 [INFO] No trade signal for AAPL
+2026-04-08 18:03:54,602 [INFO] No trade signal for AAPL
+2026-04-08 18:04:50,653 [INFO] No trade signal for AAPL
+2026-04-08 18:04:55,126 [INFO] No trade signal for AAPL
+2026-04-08 18:05:51,280 [INFO] No trade signal for AAPL
+2026-04-08 18:05:55,686 [INFO] No trade signal for AAPL
+2026-04-08 18:06:52,036 [INFO] No trade signal for AAPL
+2026-04-08 18:06:56,189 [INFO] No trade signal for AAPL
+2026-04-08 18:07:52,883 [INFO] No trade signal for AAPL
+2026-04-08 18:07:56,807 [INFO] No trade signal for AAPL
+2026-04-08 18:08:53,823 [INFO] No trade signal for AAPL
+2026-04-08 18:08:57,367 [INFO] No trade signal for AAPL
+2026-04-08 18:09:54,458 [INFO] No trade signal for AAPL
+2026-04-08 18:09:58,034 [INFO] No trade signal for AAPL
+2026-04-08 18:10:56,804 [INFO] No trade signal for AAPL
+2026-04-08 18:10:58,582 [INFO] No trade signal for AAPL
+2026-04-08 18:12:10,214 [ERROR] 
+1 Failed download:
+2026-04-08 18:12:10,216 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 18:12:10,330 [ERROR] 
+1 Failed download:
+2026-04-08 18:12:10,590 [ERROR] ['AAPL']: TypeError("'NoneType' object is not subscriptable")
+2026-04-08 18:12:10,605 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 18:12:10,850 [INFO] ALERT: No data fetched for AAPL
+2026-04-08 18:13:12,599 [INFO] No trade signal for AAPL
+2026-04-08 18:13:12,916 [INFO] No trade signal for AAPL
+2026-04-08 18:14:13,514 [INFO] No trade signal for AAPL
+2026-04-08 18:14:13,590 [INFO] No trade signal for AAPL
+2026-04-08 18:15:14,087 [INFO] No trade signal for AAPL
+2026-04-08 18:15:14,212 [INFO] No trade signal for AAPL
+2026-04-08 18:16:14,648 [INFO] No trade signal for AAPL
+2026-04-08 18:16:14,802 [INFO] No trade signal for AAPL
+2026-04-08 18:17:15,215 [INFO] No trade signal for AAPL
+2026-04-08 18:17:15,585 [INFO] No trade signal for AAPL
+2026-04-08 18:18:15,808 [INFO] No trade signal for AAPL
+2026-04-08 18:18:16,285 [INFO] No trade signal for AAPL
+2026-04-08 18:19:17,601 [INFO] No trade signal for AAPL
+2026-04-08 18:19:18,373 [INFO] No trade signal for AAPL
+2026-04-08 18:20:18,608 [INFO] No trade signal for AAPL
+2026-04-08 18:20:19,136 [INFO] No trade signal for AAPL
+2026-04-08 18:21:19,294 [INFO] No trade signal for AAPL
+2026-04-08 18:21:19,746 [INFO] No trade signal for AAPL
+2026-04-08 18:22:20,031 [INFO] No trade signal for AAPL
+2026-04-08 18:22:20,266 [INFO] No trade signal for AAPL
+2026-04-08 18:23:20,751 [INFO] No trade signal for AAPL
+2026-04-08 18:23:20,814 [INFO] No trade signal for AAPL
+2026-04-08 18:24:21,711 [INFO] No trade signal for AAPL
+2026-04-08 18:24:21,719 [INFO] No trade signal for AAPL
+2026-04-08 18:25:22,346 [INFO] No trade signal for AAPL
+2026-04-08 18:25:22,410 [INFO] No trade signal for AAPL
+2026-04-08 18:26:23,089 [INFO] No trade signal for AAPL
+2026-04-08 18:26:23,159 [INFO] No trade signal for AAPL
+2026-04-08 18:27:23,900 [INFO] No trade signal for AAPL
+2026-04-08 18:27:23,976 [INFO] No trade signal for AAPL
+2026-04-08 18:28:24,681 [INFO] No trade signal for AAPL
+2026-04-08 18:28:24,882 [INFO] No trade signal for AAPL
+2026-04-08 18:29:25,960 [INFO] No trade signal for AAPL
+2026-04-08 18:29:26,198 [INFO] No trade signal for AAPL
+2026-04-08 18:30:26,445 [INFO] No trade signal for AAPL
+2026-04-08 18:30:26,752 [INFO] No trade signal for AAPL
+2026-04-08 18:31:27,428 [INFO] No trade signal for AAPL
+2026-04-08 18:31:29,686 [INFO] No trade signal for AAPL
+2026-04-08 18:32:28,028 [INFO] No trade signal for AAPL
+2026-04-08 18:32:30,215 [INFO] No trade signal for AAPL
